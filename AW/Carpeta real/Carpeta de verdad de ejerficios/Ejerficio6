@@ -3,24 +3,15 @@
   <head>
     <meta charset="utf-8">
     <title>MI perfil</title>
-    <link rel="stylesheet" href="ejerficio1.1.css">
+    <link rel="stylesheet" href="ejerficio1.6.css">
     <style media="screen">
     </style>
   </head>
   <body>
-    <div id="sidebar">
-<ul>
-  <li>
-    <a href="<#perfil">
-      <i class="img-circle"></i>
-      <img src="perfildeusuario.jpg" width="80px">
-    </a>
-  </li>
+    <div id="wrapper">
+      <div id="left-container">
 
-    </div>
-    <div id"content">
-    <div class="container">
-      <div class="card text-center" id="perfil">
+      <div class="card text-center">
 <img  src="fan-art-anime-girls-ak-47-dubstepgutter-wallpaper-preview.jpg" width="200px"alt="DORAMION" id="img-profile" class="img-circle">
 <h1>HOLA , SOY DORAMION</h1>
 
@@ -34,8 +25,8 @@ Me gusta el counter strike y soy youtuber, Juego haciendo cosplay de doraemon.
   </div>
 
   <div class="card text-center">
-    <ul class="card text-center">
-
+    <ul class="list-inline">
+<li class="text-center">
 
 
       <a  title="twicht"href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjF79zx06bzAhVaA2MBHckLAcMQFnoECA4QAw&url=https%3A%2F%2Fwww.twitch.tv%2Fwolfangkillers%3Flang%3Des&usg=AOvVaw0tf8QpV1zpDmLyLNMXjjK6">
@@ -46,9 +37,9 @@ Me gusta el counter strike y soy youtuber, Juego haciendo cosplay de doraemon.
 </a>
       </li>
 
-      </div>
-
-        <div class="card text-center">
+    </div></div>
+<div id="right-container">
+      <div class="card">
 <h2>Mis juegos favortios </h2>
 <table id="movies">
 <tbody>
@@ -80,9 +71,12 @@ Me gusta el counter strike y soy youtuber, Juego haciendo cosplay de doraemon.
 </table></tr></td>
 </tbody>
 </table>
+</div></div>
+<div class"clear">
 </div>
-<div class="card text-center">
+<div class="card" id="footer">
 <h2>About dis page</2>
- <
+</div>
+</div></div>
   </body>
   </html>
