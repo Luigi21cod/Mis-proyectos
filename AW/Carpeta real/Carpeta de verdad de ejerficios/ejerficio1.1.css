@@ -61,6 +61,14 @@ a:hover{
   list-style: none;
   padding-left: 0px;
 }
-#sidebar{
-  display:none;
+#sidebar a:hover {
+  color:white;
+}
+@media (max-width: 788px;){
+  #content{
+    margin-left: 0px;
+  }
+  #sidebar {
+    display: none;
+  }
 }
