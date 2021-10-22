@@ -1,0 +1,30 @@
+div.noticia > h1 {
+  color: #8C
+}
+
+
+
+
+
+p {
+color: red;
+ }
+
+body {
+background-color: #FCFEC9;
+}
+
+div.contenido {
+color: blue;
+}
+h3 {
+color: #A0E7E5;
+margin: 40px;
+background: red;
+font-size: 570%;
+border: black 10px solid;
+
+}
+div.destacado {
+text-align: center;
+}

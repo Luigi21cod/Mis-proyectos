@@ -1,0 +1,19 @@
+@font-face {
+  font-family:"game_over.tff";
+  src:url("Documentos/AW/Primero/SEBUSCA/game_over.tff");
+}
+h1 {
+text-align: center;
+font-family: "game_over.tff";
+}
+
+body{
+  background-image:url("f666c8d4bb6c3e7b449fe774bca2089dc83b47ff_hq.gif");
+  background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+  text-align:center;
+
+
+}

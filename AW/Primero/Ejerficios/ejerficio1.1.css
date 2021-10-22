@@ -1,0 +1,66 @@
+h2 {
+  font-size: 2;
+  color: red;
+}
+body {
+  height: 500px:
+  background-image:image("animated-gifs-of-fighting-game-backgrounds-18.webp");
+background-image: url("animated-gifs-of-fighting-game-backgrounds-18.webp");
+background-size: cover;
+background-repeat: no-repeat;
+margin: 0;
+}
+p {
+  color: #779ECB;
+}
+h1 {
+color: red;
+}
+.container{
+width: 600px;
+margin: 100px auto;
+}
+.card{
+  background: white;
+  padding: 20px;
+  align-self: center;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+a:hover{
+  width:200px;
+  margin: 30px auto;
+}
+.img-circle{
+  border-radius:50%;
+}
+
+#content{
+  margin-left: 120px;
+}
+#sidebar {
+  background-color: #384047;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 120px;
+  text-align: center;
+}
+#sidebar a {
+  text-decoration: none;
+  font-size: 25px;
+  color:#788188;
+}
+#sidebar li {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#sidebar ul {
+  list-style: none;
+  padding-left: 0px;
+}
+#sidebar{
+  display:none;
+}

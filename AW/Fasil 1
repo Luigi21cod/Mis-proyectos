@@ -1,0 +1,17 @@
+<!Doctype html>
+<html lang="es" din="ltr">
+<head>
+  <meta charset="utf-8">
+<title>Fasil</title>
+</head>
+<body>
+<h1>Esto es muy fasil</h1>
+<h2>CAMBIO!!!!!!!!</h2>
+</body>
+<script type="text/javascript">
+//alert/()"!!!!hola mudno")
+let nombre
+nombre = "jorge"
+alert("hola" + nombre)
+</script>
+</html>

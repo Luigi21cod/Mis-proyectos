@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>MI perfil</title>
+    <link rel="stylesheet" href="ejerficio1.1.css">
+    <style media="screen">
+    </style>
+  </head>
+  <body>
+    <div id="sidebar">
+<ul>
+  <li>
+    <a href="<#summary">
+      <img src="perfildeusuario.jpg">
+    </a>
+  </li>
+
+    </div>
+    <div class="container">
+      <div class="card text-center">
+<img  src="fan-art-anime-girls-ak-47-dubstepgutter-wallpaper-preview.jpg" width="200px"alt="DORAMION" id="img-profile" class="img-circle">
+<h1>HOLA , SOY DORAMION</h1>
+
+<P>
+Me gusta el counter strike y soy youtuber, Juego haciendo cosplay de doraemon.
+</P>
+
+<p> <font size=4><i>
+  <b>SIGUEME<b></i></font><ul>
+  <P></ul>
+  </div>
+
+  <div class="card text-center">
+    <ul class="card text-center">
+
+
+
+      <a  title="twicht"href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjF79zx06bzAhVaA2MBHckLAcMQFnoECA4QAw&url=https%3A%2F%2Fwww.twitch.tv%2Fwolfangkillers%3Flang%3Des&usg=AOvVaw0tf8QpV1zpDmLyLNMXjjK6">
+<img src="Twicht.png" width="80" alt="twicht">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a title="twitter" href="https://twitter.com/Wolfangkillers?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+<img src="twitter.png" width="80" alt="twitter">
+</a>
+</a>
+      </li>
+
+      </div>
+
+        <div class="card text-center">
+<h2>Mis juegos favortios </h2>
+<table id="movies">
+<tbody>
+<tr>
+  <td>
+  <img width="300px" src="1366_521.jpeg" alt="League of Legends">
+</td>
+<td>
+  <h2>League of legends </h2>
+<p>League of Legends es un videojuego del género multijugador de arena de batalla en línea y deporte electrónico el cual fue desarrollado por Riot Games para Microsoft Windows y OS X y para consolas digitales.</p>
+</td>
+</tr>
+<br><br>
+<tr>
+  <td>
+    <img width="300px" src="counter-strike.gif" alt="Counter Strike">
+</td>
+<td>
+<h2>Counter Strike</h2>
+ <p>Counter-Strike es una serie de videojuegos de disparos multijugador en primera persona en los que equipos de terroristas luchan para perpetrar un acto de terror mientras los antiterroristas intentan evitarlo. La serie comenzó en Windows en 1999 con el lanzamiento del primer juego, Counter-Strike</p>
+</td></tr>
+<tr>
+  <td>
+    <img width="300px" src="200.gif" alt="Call of duty">
+  </td>
+  <td>
+    <h2>Call of duty</h2>
+    <p>Call of Duty es una serie de videojuegos de disparos en primera persona, de estilo bélico, desarrollada principal e inicialmente por Infinity Ward, Treyarch, Sledgehammer Games y en menor proporción Raven Software y distribuida por Activision</p>
+</table></tr></td>
+</tbody>
+</table>
+</div>
+<div class="card text-center">
+<h2>About dis page</2>
+ <
+  </body>
+  </html>
