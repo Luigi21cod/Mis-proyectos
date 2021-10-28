@@ -13,10 +13,10 @@
 
       <div class="card text-center">
 <img  src="fan-art-anime-girls-ak-47-dubstepgutter-wallpaper-preview.jpg" width="200px"alt="DORAMION" id="img-profile" class="img-circle">
-<h1>HOLA , SOY DORAMION</h1>
+<h1>HOLA, SOY CHALZMAN123</h1>
 
 <P>
-Me gusta el counter strike y soy youtuber, Juego haciendo cosplay de doraemon.
+Me gusta el anime , el league of legends, Los RPG , MMO Y SHOOTER
 </P>
 
 <p> <font size=4><i>
@@ -68,15 +68,17 @@ Me gusta el counter strike y soy youtuber, Juego haciendo cosplay de doraemon.
   <td>
     <h2>Call of duty</h2>
     <p>Call of Duty es una serie de videojuegos de disparos en primera persona, de estilo bélico, desarrollada principal e inicialmente por Infinity Ward, Treyarch, Sledgehammer Games y en menor proporción Raven Software y distribuida por Activision</p>
-</table></tr></td>
-</tbody>
+</tr></td>
+
 </table>
 </div></div>
+  <div id="left-container">
+
 <div class"clear">
-</div>
-<div class="card" id="footer">
+
+  <div class="card" id="footer">
 <h2>About dis page</2>
 </div>
-</div></div>
+</div></div></div></div></div></div></div>
   </body>
   </html>
